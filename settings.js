@@ -16,11 +16,11 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5212202410659', '🜲 Propietario 🜲', true],
-  ['5492916450307'],
-  ['5219541690054'],
-  ['5214811527445'], 
-  ['5216671548329']
+  ['8292894830', '🜲 Propietario 🜲', true],
+  ['8493907272'],
+  ['8493907272'],
+  ['8493907272'], 
+  ['8493907272']
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -52,21 +52,21 @@ global.etiqueta = '༆ᴺᵉˣᵘˢ乂club숬'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '¥enes'
-global.welcom1 = '❍ Edita Con El Comando setwelcome'
-global.welcom2 = '❍ Edita Con El Comando setbye'
+global.moneda = 'dinero'
+global.welcom1 = '➪ Edita Con El Comando setwelcome'
+global.welcom2 = '➪ Edita Con El Comando setbye'
 global.banner = 'https://files.catbox.moe/0lor02.jpg'
 global.avatar = 'https://files.catbox.moe/v666sq.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ'
-global.comunidad1 = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
-global.channel = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
+global.gp1 = 'https://chat.whatsapp.com/BnaMTKnuJeR2YDFrHXiKP3
+global.comunidad1 = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3Ia'
+global.channel = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
 global.correo = 'thekingdestroy507@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.cn ='https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
