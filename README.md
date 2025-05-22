@@ -1,6 +1,6 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">✦Alisakujou-botƚ ✦</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+ <img src= "1000252615.jpg">
     </p>
 
 ### **`❕️ Información importante`**
