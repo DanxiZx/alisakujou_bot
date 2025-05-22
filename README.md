@@ -1,6 +1,6 @@
 <h1 align="center">✦Alisakujou-botƚ ✦</h1>
 
- <img src= "https://files.catbox.moe/ecn5x3.jpg">
+ <img src= "https://files.catbox.moe/8o5nli.jpg">
     </p>
 
 ### **`❕️ Información importante`**
