@@ -31,7 +31,7 @@ global.creador = 'Wa.me/+18493907272'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.namechannel = '𝗔𝗹𝗶𝘀𝗮𝗸𝘂𝗷𝗼𝘂-𝗯𝗼𝘁 𝗖𝗮𝗻𝗮𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ༆'
 global.namechannel2 = '𝗔𝗹𝗶𝘀𝗮𝗸𝘂𝗷𝗼𝘂-𝗯𝗼𝘁 𝗖𝗮𝗻𝗮𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ༆'
-global.namegrupo =  𝙰𝚕𝚒𝚜𝚊 𝙺𝚞𝚓𝚘𝚞 • ᥆𝖿іᥴіᥲᥣ '
+global.namegrupo = ' 𝙰𝚕𝚒𝚜𝚊 𝙺𝚞𝚓𝚘𝚞 • ᥆𝖿іᥴіᥲᥣ '
 global.namecomu = 'ᰔᩚ 𝙰𝚕𝚒𝚜𝚊𝚔𝚞𝚓𝚘𝚞-𝚋𝚘𝚝 • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
 global.listo = '❀ *𝗔𝗾𝘂𝗶 𝗟𝗼 𝗧𝗶𝗲𝗻𝗲𝘀 𝗟𝗶𝘀𝘁𝗼 🤍'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
