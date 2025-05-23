@@ -10,7 +10,7 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 
 ᰔᩚ ⁱᵃᵐ|𝕯𝖆𝖓𝖎𝖃𝖅
 > 🜸 Rol » *Creador*
-> ✧ GitHub » https://github.com/The-King-Destroy
+> ✧ GitHub » 'https://github.com/The-King-Destroy'
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), fkontak)
 }
   
