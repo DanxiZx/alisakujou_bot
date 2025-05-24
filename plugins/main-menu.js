@@ -554,7 +554,8 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 > ✦ Juega un pvp contra otro usuario.
 👾 *#ttt*
 > ✦ Crea una sala de juego. 
-  `.trim()𝙁𝙞𝙣 𝘿𝙚𝙡 𝙈𝙚𝙣𝙪 𝘼𝙡𝙞𝙨𝙖𝙠𝙪𝙟𝙤𝙪-𝙗𝙤𝙩 
+
+𝙁𝙞𝙣 𝘿𝙚𝙡 𝙈𝙚𝙣𝙪 𝘼𝙡𝙞𝙨𝙖𝙠𝙪𝙟𝙤𝙪-𝙗𝙤𝙩  `.trim() 
   await conn.sendMessage(m.chat, { 
       text: txt,
       contextInfo: {
