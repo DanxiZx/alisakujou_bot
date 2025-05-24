@@ -5,26 +5,23 @@ let handler = async (m, { conn, args }) => {
     let _uptime = process.uptime() * 1000
     let uptime = clockString(_uptime)
     let totalreg = Object.keys(global.db.data.users).length
-    let totalcommands = Object.values(global.plugins).filter((v) => v.help && v.tags && v.tags.length).length
-    
-    let txt = `
-Hola! Soy  *${botname}*🌸
-Aquí tienes la lista de comandos🤗
-┏━━━━━°❀•🤍 - 🤍•❀°━━━━━┓
-│🙎🏻‍♂️ Cliente » @${userId.split('@')[0]}
-│🗣️ Modo » Publico
-│🌟 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🌺' 'PremBot 💎')}
-╔═══════ 🌸 ════════╗
-│⏳ Activada » ${uptime}
-│🪪 Usuarios » ${totalreg}
-│📃 Comandos » ${totalCommands}
-│🔰 Baileys » Multi Device
-╚═══════ 🤍 ════════╝
-⭐Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*⭐
+    let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
 
-𝙐𝙣𝙚𝙩𝙚 𝘼𝙡 𝘾𝙖𝙣𝙖𝙡.𝙊𝙛𝙞𝙘𝙞𝙖𝙡 ➪https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I   
-           
-              『*Info-Bot*』 
+    let txt = `
+Hola! Soy  *${botname}*  ٩(˘◡˘)۶
+Aquí tienes la lista de comandos
+╭┈ ↷
+│ᰔᩚ Cliente » @${userId.split('@')[0]}
+│❀ Modo » Publico
+│✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 🅑')}
+│ⴵ Activada » ${uptime}
+│✰ Usuarios » ${totalreg}
+│✧ Comandos » ${totalCommands}
+│🜸 Baileys » Multi Device
+╰─────────────────
+Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
+
+• :･ﾟ⊹˚• \`『 Info-Bot 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para ver estado e información de la Bot.
 ᰔᩚ *#help • #menu*
