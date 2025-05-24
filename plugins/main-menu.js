@@ -13,7 +13,7 @@ Aquí tienes la lista de comandos
 ┏━━━━━°❀•🤍 - 🤍•❀°━━━━━┓
 │⭐ Cliente » @${userId.split('@')[0]}
 │🗣️ Modo » Publico
-│🌟 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🌺' : 'Prem Bot 💎')}
+│🌟 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🌺' : 'Prem ┗━━━━━°❀•🤍 - 🤍•❀°━━━━━┛Bot 💎')}
 ╔═══════ 🌸 ════════╗
 │⏳ Activada » ${uptime}
 │🪪 Usuarios » ${totalreg}
@@ -21,9 +21,10 @@ Aquí tienes la lista de comandos
 │🔰 Baileys » Multi Device
 ╚═══════ 🤍 ════════╝
 Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
-▌│█║▌║▌║ - ║▌║▌║█│▌
+
 𝙐𝙣𝙚𝙩𝙚 𝘼𝙡 𝘾𝙖𝙣𝙖𝙡.𝙊𝙛𝙞𝙘𝙞𝙖𝙡 ➪https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I   
-           *Info-Bot* 
+           
+              *Info-Bot* 
 
 ❍ Comandos para ver estado e información de la Bot.
 ᰔᩚ *#help • #menu*
