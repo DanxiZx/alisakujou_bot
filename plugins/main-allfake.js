@@ -48,11 +48,10 @@ global.mes = d.toLocaleDateString('es', {month: 'long'})
 global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
-global.rwait = '🕒'
+global.rwait = '⏱️'
 global.done = '✅'
-global.error = '✖️'
-global.msm = '⚠︎'
-
+global.error = '❌'
+global.msm = '⚠️'
 global.emoji = '🤍'
 global.emoji2 = '🌸'
 global.emoji3 = '🤍'
