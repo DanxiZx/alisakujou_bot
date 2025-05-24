@@ -11,13 +11,13 @@ let handler = async (m, { conn, args }) => {
 Hola! Soy  *${botname}*🌸
 Aquí tienes la lista de comandos
 ┏━━━━━°❀•🤍 - 🤍•❀°━━━━━┓
-│⭐ Cliente » @${userId.split('@')[0]}
+│🙎🏻‍♂️ Cliente » @${userId.split('@')[0]}
 │🗣️ Modo » Publico
 │🌟 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🌺' 'PremBot 💎')}
 ╔═══════ 🌸 ════════╗
 │⏳ Activada » ${uptime}
 │🪪 Usuarios » ${totalreg}
-│📜 Comandos » ${totalCommands}
+│📃 Comandos » ${totalCommands}
 │🔰 Baileys » Multi Device
 ╚═══════ 🤍 ════════╝
 Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
