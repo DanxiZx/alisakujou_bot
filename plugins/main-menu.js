@@ -50,7 +50,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 > ✦ Sugiere un nuevo comando.
 ⭐ *#p • #ping*
 > ✦ Ver la velocidad de respuesta del Bot.
-ᰔᩚ *#reporte • #reportar*
+⭐ *#reporte • #reportar*
 > ✦ Reporta alguna falla o problema de la Bot.
 ⭐ *#sistema • #system*
 > ✦ Ver estado del sistema de alojamiento.
