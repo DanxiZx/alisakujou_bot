@@ -20,7 +20,7 @@ Aquí tienes la lista de comandos🤗
 │📃 Comandos » ${totalCommands}
 │🔰 Baileys » Multi Device
 ╚═══════ 🤍 ════════╝
-Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
+⭐Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*⭐
 
 𝙐𝙣𝙚𝙩𝙚 𝘼𝙡 𝘾𝙖𝙣𝙖𝙡.𝙊𝙛𝙞𝙘𝙞𝙖𝙡 ➪https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I   
            
