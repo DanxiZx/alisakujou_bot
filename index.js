@@ -479,4 +479,8 @@ const parsedNumber = phoneUtil.parseAndKeepRawInput(number)
 return phoneUtil.isValidNumber(parsedNumber)
 } catch (error) {
 return false
-}}
+}} const express = require("express");
+const app = express();
+
+app.get("/", (req, res) => res.send("Bot activo en Glitch"));
+app.listen(3000, () => console.log("Servidor web iniciado"));
