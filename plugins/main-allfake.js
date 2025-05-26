@@ -66,9 +66,9 @@ global.waitttt = '❍ Espera un momento, soy lenta...';
 
 var canal = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'  
 var comunidad = 'https://chat.whatsapp.com/BnaMTKnuJeR2YDFrHXiKP3'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-let correo = 'thekingdestroy507@gmail.com'
+var git = ''
+var github = '' 
+let correo = ''
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
