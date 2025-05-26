@@ -64,7 +64,7 @@ global.gp1 = 'https://chat.whatsapp.com/BnaMTKnuJeR2YDFrHXiKP3'
 global.channel = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
 global.channel2 = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
 global.md = 'https://github.com/DanxiZx/alisakujou_bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.correo = ''
 global.cn ='https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
