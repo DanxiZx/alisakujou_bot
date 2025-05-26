@@ -63,14 +63,6 @@ yarn install
 ```
 
 ```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
 npm start
 ```
 
