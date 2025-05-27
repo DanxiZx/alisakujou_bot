@@ -6,8 +6,8 @@ let handler = async (m, { conn, args }) => {
     let uptime = clockString(_uptime)
     let totalreg = Object.keys(global.db.data.users).length
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
-
-    let txt = `
+     
+      .react('🌟')    let txt = `
 Hola! Soy  *${botname}*  🤍
 *Aquí tienes la lista de comandos*
 
