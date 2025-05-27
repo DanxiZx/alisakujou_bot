@@ -8,7 +8,7 @@ let handler = async (m, { conn, args }) => {
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
 
  
- '.react('🌟') let txt = `
+ .react('🌟') let txt = `
 Hola! Soy  *${botname}*  🤍
 *Aquí tienes la lista de comandos*
 
